@@ -1,2 +1,2 @@
-# Signals-and-Systems
-Signals and Systems class materials of CUC
+# 信号与系统
+中国传媒大学课程《信号与系统》课件、教材、笔记、复习资料以及作业
